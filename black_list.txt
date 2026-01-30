@@ -3,7 +3,7 @@
 # Обновлено: 2024
 
 # Кино/сериалы
-zacev.net
+zaycev.net
 kinogo.*
 kinogo-ba.*
 gidonline.*
