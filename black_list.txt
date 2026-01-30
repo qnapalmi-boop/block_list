@@ -1,0 +1,39 @@
+# Блокировка развлекательных сайтов для FortiGate
+# Формат: один домен на строку
+# Обновлено: 2024
+
+# Кино/сериалы
+zacev.net
+kinogo.*
+kinogo-ba.*
+gidonline.*
+filmix.*
+.*kinopoisk.*
+hdrezka.*
+seasonvar.*
+
+# Соцсети и видео
+vk.com
+ok.ru
+rutube.ru
+dzen.ru
+
+# Стриминговые сервисы
+ivi.ru
+start.ru
+more.tv
+amediateka.ru
+megogo.ru
+wink.ru
+kion.ru
+
+# Международные
+netflix.com
+youtube.com
+twitch.tv
+tiktok.com
+
+# Торренты
+rutor.*
+kinozal.*
+nnmclub.*
