@@ -8,7 +8,7 @@ kinogo.*
 kinogo-ba.*
 gidonline.*
 filmix.*
-.*kinopoisk.*
+*kinopoisk.*
 hdrezka.*
 seasonvar.*
 
