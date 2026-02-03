@@ -68,30 +68,30 @@ kinogo.biz
 kinogo.la
 kinogo.cc
 kinogo.fm
-kinogo*
+*kinogo*
 lordfilm.lu
 lordfilm.pro
-lordfilm*
+*lordfilm*
 lordserial.la
 lordserial*
 rezka.ag
-rezka*
+*rezka*
 hdrezka.me
-hdrezka*
+*hdrezka*
 rezka.bet
 seasonvar.ru
-seasonvar*
+*seasonvar*
 filmix.ac
-filmix*
+*filmix*
 filmix.me
 lostfilm.tv
-lostfilm*
+*lostfilm*
 lostfilm.run
 baskino.me
-baskino*
+*baskino*
 baskino.vip
 kinokrad.co
-kinokrad*
+*kinokrad*
 gidonline.io
 jut.su
 yummyani.me
@@ -132,6 +132,7 @@ nflxvideo.net
 disneyplus.com
 disney-plus.net
 tv.apple.com
+kion.ru
 
 # YouTube (Полная блокировка сайта, мобильных приложений и серверов вещания)
 youtube.com
