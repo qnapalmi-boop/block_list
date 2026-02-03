@@ -1,39 +1,149 @@
-# Блокировка развлекательных сайтов для FortiGate
-# Формат: один домен на строку
-# Обновлено: 2024
+# Стриминги и Музыка
+spotify.com
+open.spotify.com
+scdn.co
+spoti.fi
+music.yandex.ru
+music.yandex.net
+yandex.net/music-application
+zvuk.com
+sber-zvuk.com
+music.youtube.com
+music.apple.com
+itunes.apple.com
+deezer.com
+dzcdn.net
+tidal.com
+tidalhifi.com
+soundcloud.com
+sndcdn.com
+bandcamp.com
+promodj.com
+mixcloud.com
 
-# Кино/сериалы
-zaycev.net
-kinogo.*
-kinogo-ba.*
-gidonline.*
-filmix.*
-*kinopoisk.*
-hdrezka.*
-seasonvar.*
-
-# Соцсети и видео
-vk.com
-ok.ru
-rutube.ru
-dzen.ru
-
-# Стриминговые сервисы
-ivi.ru
-start.ru
-more.tv
-amediateka.ru
-megogo.ru
-wink.ru
-kion.ru
-
-# Международные
-netflix.com
+# Видеохостинги и Стримы
 youtube.com
-twitch.tv
+youtu.be
+ytimg.com
+googlevideo.com
 tiktok.com
+ttwstatic.com
+tiktokv.com
+twitch.tv
+ttvnw.net
+jtvnw.net
+kick.com
+trovo.live
+bigo.tv
+vimeo.com
+vimeocdn.com
+dailymotion.com
+dmcdn.net
+rutube.ru
+rutubelist.ru
+://vk.com
+vkvideo.ru
 
-# Торренты
-rutor.*
-kinozal.*
-nnmclub.*
+# Радио-агрегаторы
+tunein.com
+iheart.com
+radio.garden
+101.ru
+online-red.com
+pcradio.ru
+the-radio.ru
+radio-rating.ru
+fm-online.ru
+myradio.ua
+radiorus.ru
+vse-fm.com
+radiorecord.ru
+europaplus.ru
+dfm.ru
+di.fm
+soma.fm
+
+# Пиратские кинотеатры (Kinogo, Lordfilm и др.)
+kinogo.biz
+kinogo.la
+kinogo.cc
+kinogo.fm
+lordfilm.lu
+lordfilm.pro
+lordserial.la
+rezka.ag
+hdrezka.me
+rezka.bet
+seasonvar.ru
+filmix.ac
+filmix.me
+lostfilm.tv
+lostfilm.run
+baskino.me
+baskino.vip
+kinokrad.co
+gidonline.io
+jut.su
+yummyani.me
+anilibria.tv
+animestars.org
+
+# Плееры и CDN (блокируют само видео на сайтах)
+kodik.biz
+vidsrc.me
+collaps.org
+videocdn.pw
+
+# MP3-порталы и Торренты
+muzofond.fm
+hitmo.top
+mp3party.net
+zaycev.net
+ru-music.com
+top-music.me
+rutracker.org
+rutor.info
+zona.ru
+thepiratebay.org
+1337x.to
+
+# Онлайн-кинотеатры (Легальные)
+kinopoisk.ru
+ott.yandex.ru
+ivi.ru
+iviru.com
+okko.tv
+okko.ru
+wink.ru
+amediateka.ru
+netflix.com
+nflxext.com
+nflxvideo.net
+disneyplus.com
+disney-plus.net
+tv.apple.com
+
+# YouTube (Полная блокировка сайта, мобильных приложений и серверов вещания)
+youtube.com
+www.youtube.com
+m.youtube.com
+youtu.be
+yt.be
+youtube-nocookie.com
+youtube-ui.l.google.com
+ytimg.com
+ytimg.l.google.com
+googlevideo.com
+ggpht.com
+ytstatic.com
+youtubei.googleapis.com
+
+# Rutube (Полная блокировка сайта и видеопотока)
+rutube.ru
+www.rutube.ru
+rutubelist.ru
+rtb.com.ru
+rutube.net
+rutube.com
+yastatic.net/s3/rutube
+blm.rutube.ru
