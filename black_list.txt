@@ -5,6 +5,7 @@ scdn.co
 spoti.fi
 music.yandex.ru
 music.yandex.net
+*music.yandex*
 yandex.net/music-application
 zvuk.com
 sber-zvuk.com
